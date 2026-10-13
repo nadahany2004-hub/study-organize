@@ -1,4 +1,4 @@
-# Contribution — <Ibrahim Aljifri> (<2509115325>, @<ibrajif>)
+# Contribution — Ibrahim Aljifri (<2509115325>, @<ibrajif>)
 
 ## My role
 I was responsible for the documentation and the presentation: `README.md`
