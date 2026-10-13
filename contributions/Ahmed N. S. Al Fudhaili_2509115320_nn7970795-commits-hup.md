@@ -1,5 +1,3 @@
-# Contribution — <FULL NAME> (<STUDENT_ID>, @<github_username>)
-
 ## My role
 I was responsible for `gui.py`, the optional graphical window of Study Organizer.
 It lets users who do not like the terminal use the same features as the CLI.
